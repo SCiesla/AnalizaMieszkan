@@ -1,7 +1,7 @@
 # Analiza rynku mieszkań (maj 2023)
 
 Projekt, którego celem było wykonanie analizy dostępnyh ofert mieszkaniowych w maju 2023 na portalu www.olx.pl.
-Dane pozyskano pisząc skrypt scrapujący wykorxzystując bibliotekę **Beautiful Soup**, który pozyskiwał dane o ofertach mieszkań na sprzedaż jak i na wynajem.
+Dane pozyskano pisząc skrypt scrapujący wykorzystując bibliotekę **Beautiful Soup**, który pozyskiwał dane o ofertach mieszkań na sprzedaż jak i na wynajem.
 
 Analizę przeprowadzono dla pięciu wybranych miast: Warszawa, Kraków, Wrocław, Poznań i Gdańsk. Dane o mieszkaniach jakie pozyskiwano to:
 - kwota sprzedaży/wynajmu 
