@@ -55,3 +55,9 @@ Warszawa dominuje pod względem cen mieszkań na wynajem i na sprzedaż. Zapłac
 Najtańszy ze wszystkich okazuje się być Poznań z najniższymi stawkami. 
 
 Warszawa dominuje dodatkowo pod względem ofert. Mieszkań na sprzedaż znajdziemy tam około 3 tysiące. Dla kontrastu na drugim miejscu jest Wrocław (1,9 tyś.). Najmniej ofert na sprzedaz ma Gdańsk (około 1 tyś.) 
+
+### 5. Na jaki typ mieszkania jest najwięcej ofert? 
+
+Pod względem mieszkań na sprzedaż i na wynajem najwięcej ofert znajdziemy na mieszkania dwu- i trzypokpojowe w każdym mieście. 
+Bardzo mało ofert jest na sprzedaż kawalerek, za to bardzo dużo na wynajem. 
+Właściele chętniej wynajmują swoje kawalerki niż decydują się na ich sporzedaż.
