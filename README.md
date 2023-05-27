@@ -65,3 +65,4 @@ Właściele chętniej wynajmują swoje kawalerki niż decydują się na ich spor
 ### 6. Tylko 8% ofert zawiera deklaracje o możliwości negocjacji ceny. 
 
 92% wszystkich ofert nie ma zaznaczonej tej opcji.
+Najmniejszą liczbę ogłoszeń z możlwiością negocjacji znajdziemy w Poznaniu (6%), najwięcej w w Krakowie (10%). 
