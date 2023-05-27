@@ -49,4 +49,5 @@ Oferty przedstawione na stronie OLX przekierowują na stronę otodom.pl.
 Tylko 40% ze wszystkich ofert jest opublikowana na stronie OLX. 
 
 ### 4. 
+![image](https://github.com/SCiesla/AnalizaMieszkan/assets/134396909/08cdfcd5-d9b2-4669-912e-0a9b0093fbf0)
 
