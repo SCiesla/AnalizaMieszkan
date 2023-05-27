@@ -27,5 +27,9 @@ https://public.tableau.com/app/profile/adam.cisma/viz/Analizarynkumieszkamaj2023
 
 ## Najważniejsze wnioski z analizy (w trakcie)
 
-1. 3.5% ofert jest błędnie zaklasyfikowana. 
-Około 700 ogłoszeń w kateogrii spredaż/wynajem zostało błędnie przypisanych  
+1. 3.5% ofert jest błędnie zaklasyfikowana przez właścicieli. 
+Około 700 ogłoszeń w kateogrii spredaż/wynajem zostało błędnie przypisanych przez właścicieli mieszkań. 
+- Dotyczą one wynajmu pojedynczych pokojów na miesiąc lub na dobę 
+- Dotyczą one wynajmu lokalu biurowych, sprzedaży lokali gastronomicznych lub całych kamienic.
+Powyższe przypadki mają swoje własne kategorie (pokoje na msc - Pokoje i Stancje) 
+Lokale i kamienice - kategoria Domy
