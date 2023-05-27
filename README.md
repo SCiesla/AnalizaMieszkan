@@ -38,3 +38,7 @@ Powyższe przypadki mają swoje własne kategorie (pokoje na msc - Pokoje i Stan
 Lokale i kamienice - kategoria Domy. Właściciele błędnie je oznaczają. 
 
 ### 2. Ogłoszenia z błędnie wpisaną dzielnicą 
+
+Niektóre miasta (np. Wrocław) nie mają możlwiości wpisania istniejących dzielnic. Oznacza to, że oferty są błędnie przypisywane do najbliżej istniejącej w systemie dzielnicy.
+We Wrocławiu nie ma dzielnic: Gaj, Tarnogaj, Jagodno, a większość ofert została zaklasyfikowana jako ta dzielnica.
+W pozostałych miastach prawdopodobnie jest ten sam efekt. 
