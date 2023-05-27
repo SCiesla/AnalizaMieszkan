@@ -21,7 +21,7 @@ https://github.com/SCiesla/AnalizaMieszkan/blob/main/code/Report.ipynb
 Dodatkowo wykonano model regresji liniowej opisujący kwotę w zależności od dzielnicy i powierzchni mieszkania w Warszawie:
 https://github.com/SCiesla/AnalizaMieszkan/blob/main/code/LinearRegression.ipynb
 
-Dane zostały także dodatkowo sporządzone w formie interaktywnego dashboardu w programie Tableau:
+Dane zostały także dodatkowo sporządzone w formie interaktywnego dashboardu w programie **Tableau**:
 https://public.tableau.com/app/profile/adam.cisma/viz/Analizarynkumieszkamaj2023/Dashboard1
 
 
