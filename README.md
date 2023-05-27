@@ -19,6 +19,7 @@ Z oczyszczonych danych sporządzono raport zawierający szczegółową analizę
 Dodatkowo sporządzono model regresji liniowej opisujący kwotę w zależności od dzielnicy i powierzchni mieszkania w Warszawie. 
 
 Dane zostały także dodatkowo sporządzone w formie interaktywnego dashboardu w programie Tableau. 
+https://public.tableau.com/app/profile/adam.cisma/viz/Analizarynkumieszkamaj2023/Dashboard1
 
 
 ## Najważniejsze wnioski
