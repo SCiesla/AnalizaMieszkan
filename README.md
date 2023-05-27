@@ -14,13 +14,13 @@ Analizę przeprowadzono dla pięciu wybranych miast: Warszawa, Kraków, Wrocław
 
 Uzyskane w ten sposób dane wstępnie oczyszczono i przeprowadzono analizę wyników. 
 
-Z oczyszczonych danych sporządzono raport zawierający szczegółową analizę
+Raport zawierający szczegółową analizę danych:
 https://github.com/SCiesla/AnalizaMieszkan/blob/main/code/Report.ipynb
 
-Dodatkowo sporządzono model regresji liniowej opisujący kwotę w zależności od dzielnicy i powierzchni mieszkania w Warszawie. 
+Dodatkowo wykonano model regresji liniowej opisujący kwotę w zależności od dzielnicy i powierzchni mieszkania w Warszawie:
 https://github.com/SCiesla/AnalizaMieszkan/blob/main/code/LinearRegression.ipynb
 
-Dane zostały także dodatkowo sporządzone w formie interaktywnego dashboardu w programie Tableau. 
+Dane zostały także dodatkowo sporządzone w formie interaktywnego dashboardu w programie Tableau:
 https://public.tableau.com/app/profile/adam.cisma/viz/Analizarynkumieszkamaj2023/Dashboard1
 
 
