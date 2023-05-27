@@ -25,5 +25,6 @@ Dane zostały także dodatkowo sporządzone w formie interaktywnego dashboardu w
 https://public.tableau.com/app/profile/adam.cisma/viz/Analizarynkumieszkamaj2023/Dashboard1
 
 
-## Najważniejsze wnioski
+## Najważniejsze wnioski z powyższej analizy
 
+(w trakcie)
