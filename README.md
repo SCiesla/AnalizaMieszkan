@@ -42,3 +42,8 @@ Lokale i kamienice - kategoria Domy. Właściciele błędnie je oznaczają.
 Niektóre miasta (np. Wrocław) nie mają możlwiości wpisania istniejących dzielnic. Oznacza to, że oferty są błędnie przypisywane do najbliżej istniejącej w systemie dzielnicy.
 We Wrocławiu oferty mieszkań w dzielnicy: Gaj, Tarnogaj lub Jagodno zostały zaklasyfikowane do dzielnicy Krzyki.
 W pozostałych miastach prawdopodobnie jest ten sam efekt. Nie powinniśmy się zatem sugerować szukaniem mieszkań poprzez wybór dzielnicy za pośrednictwem strony olx. 
+
+### 3. 60% Ofert nie pochodzi ze strony OLX. 
+
+Oferty przedstawione na stronie OLX przekierowują na stronę otodom.pl. 
+
