@@ -13,6 +13,7 @@ Analizę przeprowadzono dla pięciu wybranych miast: Warszawa, Kraków, Wrocław
 - link do pełnej oferty
 
 Uzyskane w ten sposób dane wstępnie oczyszczono i przeprowadzono analizę wyników. 
+https://github.com/SCiesla/AnalizaMieszkan/blob/main/code/Data%20Preparation.ipynb
 
 Raport zawierający szczegółową analizę danych:
 https://github.com/SCiesla/AnalizaMieszkan/blob/main/code/Report.ipynb
