@@ -51,3 +51,5 @@ Tylko 40% ze wszystkich ofert jest opublikowana na stronie OLX.
 ### 4. Najdrożej i najwięcej w stolicy
 ![image](https://github.com/SCiesla/AnalizaMieszkan/assets/134396909/08cdfcd5-d9b2-4669-912e-0a9b0093fbf0)
 
+Warszawa dominuje pod względem cen mieszkań na wynajem i na sprzedaż. Zapłacimy tam najwięcej za kawalerki, mieszkania 2,3 i 4 pokojowe. 
+
