@@ -25,7 +25,7 @@ Dane zostały także dodatkowo sporządzone w formie interaktywnego dashboardu w
 https://public.tableau.com/app/profile/adam.cisma/viz/Analizarynkumieszkamaj2023/Dashboard1
 
 
-## Najważniejsze wnioski z analizy (w trakcie)
+## Najważniejsze wnioski z analizy
 
 ### 1. 3.5% ofert jest błędnie zaklasyfikowana przez właścicieli
 
