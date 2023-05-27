@@ -46,4 +46,7 @@ W pozostałych miastach prawdopodobnie jest ten sam efekt. Nie powinniśmy się 
 ### 3. 60% Ofert nie pochodzi ze strony OLX. 
 
 Oferty przedstawione na stronie OLX przekierowują na stronę otodom.pl. 
+Tylko 40% ze wszystkich ofert jest opublikowana na stronie OLX. 
+
+### 4. 
 
