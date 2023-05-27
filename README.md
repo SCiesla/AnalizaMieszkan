@@ -15,6 +15,7 @@ Analizę przeprowadzono dla pięciu wybranych miast: Warszawa, Kraków, Wrocław
 Uzyskane w ten sposób dane wstępnie oczyszczono i przeprowadzono analizę wyników. 
 
 Z oczyszczonych danych sporządzono raport zawierający szczegółową analizę
+https://github.com/SCiesla/AnalizaMieszkan/blob/main/code/Report.ipynb
 
 Dodatkowo sporządzono model regresji liniowej opisujący kwotę w zależności od dzielnicy i powierzchni mieszkania w Warszawie. 
 https://github.com/SCiesla/AnalizaMieszkan/blob/main/code/LinearRegression.ipynb
