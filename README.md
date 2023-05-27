@@ -16,7 +16,6 @@ Uzyskane w ten sposób dane wstępnie oczyszczono i przeprowadzono analizę wyni
 https://github.com/SCiesla/AnalizaMieszkan/blob/main/code/Data%20Preparation.ipynb
 
 Raport zawierający szczegółową analizę danych:
-
 https://github.com/SCiesla/AnalizaMieszkan/blob/main/code/Report.ipynb
 
 Dodatkowo wykonano model regresji liniowej opisujący kwotę w zależności od dzielnicy i powierzchni mieszkania w Warszawie:
