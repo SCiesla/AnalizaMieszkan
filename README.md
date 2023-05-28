@@ -60,7 +60,7 @@ Warszawa dominuje dodatkowo pod względem ofert. Mieszkań na sprzedaż znajdzie
 
 Pod względem mieszkań na sprzedaż i na wynajem najwięcej ofert znajdziemy na mieszkania dwu- i trzypokpojowe w każdym mieście. 
 Bardzo mało ofert jest na sprzedaż kawalerek, za to bardzo dużo na wynajem. 
-Właściele chętniej wynajmują swoje kawalerki niż decydują się na ich sporzedaż.
+Właściele chętniej wynajmują swoje kawalerki niż decydują się na ich sprzedaż.
 
 ### 6. Tylko 8% ofert zawiera deklaracje o możliwości negocjacji ceny. 
 
