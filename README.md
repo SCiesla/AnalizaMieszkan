@@ -22,7 +22,7 @@ Model regresji liniowej opisujący kwotę w zależności od dzielnicy i powierzc
 https://github.com/SCiesla/AnalizaMieszkan/blob/main/code/LinearRegression.ipynb
 
 Dane zostały także dodatkowo sporządzone w formie interaktywnego dashboardu w programie **Tableau**:
-https://public.tableau.com/app/profile/adam.cisma/viz/Analizarynkumieszkamaj2023/Dashboard1
+https://public.tableau.com/app/profile/sciesla/viz/Analizarynkumieszkamaj2023/Dashboard2
 
 
 ## Najważniejsze wnioski z analizy
